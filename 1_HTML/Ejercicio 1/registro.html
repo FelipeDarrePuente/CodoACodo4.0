@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Registro</title>
+</head>
+<body>
+
+    <h1>Registro</h1>
+
+
+    <form action="">
+
+        <div>
+            <label for="nombre">Nombre</label>
+            <input type="text" name="nombre" id="nombre" placeholder="Ingrese su nombre" required maxlength="10">
+        </div>
+
+        <br>
+
+        <div>
+            <label for="password">Password</label>
+            <input type="password" name="clave" id="password" placeholder="Ingrese su password">
+        </div>
+
+        <br>
+
+        <div>
+            <label for="">Correo Electronico</label>
+            <input type="email" name="correo" id="">
+        </div>
+
+        <br>   
+
+        <div>
+            <label for="mayor">Mayo de edad</label>
+            <input type="checkbox" name="mayor" id="mayor">
+        </div>
+
+        <br>
+
+        <label for="">Estado Civil</label>
+        <div>
+            <input type="radio" name="estadoCivil" id="" value="S">
+            <label for="">Soltero</label>
+        </div>
+
+        <div>
+            <input type="radio" name="estadoCivil" id="" value="C">
+            <label for="">Casado</label>
+        </div>
+
+        <div>
+            <input type="radio" name="estadoCivil" id="" value="V">
+            <label for="">Viudo/a</label>
+        </div>
+
+        <br>
+
+        <div>
+            <label for="nacionalidad">Nacionalidad</label>
+            <select name="nacionalidad" id="nacionalidad">
+                <option value="AR">Argentina</option>
+                <option value="UR">Uruguay</option>
+                <option value="PA">Paraguay</option>
+                <option value="CH">Chile</option>
+                <option value="VE">Venezuela</option>
+                <option value="OT">Otra</option>
+            </select>
+        </div>
+
+        <br><br>
+
+        <div>
+            <label for="comentario">Comentario</label> <br>
+            <textarea name="comentario" id="comentario" cols="50" rows="10"></textarea>
+        </div>
+
+
+        <input type="submit" value="Enviar">
+    </form>
+
+
+</body>
+</html>

@@ -1,0 +1,35 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    height: 100em;
+}
+
+h1{
+    text-align: center;
+    color: gray;
+}
+
+.contenedor{
+    padding: 10px;
+}
+
+.caja{
+    /* border: 1px solid rgb(189, 188, 188); */
+    background-color: rgb(165, 164, 164);
+    width: 33.33%;
+    /* display: inline-block; */
+    float: left;
+    /* margin: 10px 1px; */
+    padding: 20px;
+    border: 1px solid rgb(170, 170, 170);
+}
+
+img{
+    width: 100%;
+}
+
+/* p{
+    padding: 20px;
+} */

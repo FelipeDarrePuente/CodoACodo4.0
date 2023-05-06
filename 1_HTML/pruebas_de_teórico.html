@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pruebas de la Teoria</title>
+</head>
+<body>
+    <h1 style="color: greenyellow; background-color: green; text-align: center;">Pruebas de la Teoria</h1>
+    <h2>Listas</h2>
+    <h3>Tipos de Listas</h3>
+    <p>Reglas de Convivencia <strong>(Listas ordenadas)</strong></p>
+    <ol>
+        <li>No hacer ruidos molestos</li>
+        <li>Ser amable con los vecinos</li>
+        <li>Mantener los espacios comunes limpios</li>
+    </ol>
+    <br>
+    <p>Lenguajes de programacion <strong>(Listas desordenadas)</strong></p>
+    <ul>
+        <li>PHP</li>
+        <li>JAVA</li>
+        <li>Python</li>
+    </ul>
+    <br>
+    <p>Alimentos Lacteos <strong>(Listas de Definicion)</strong></p>
+    <dl>
+        <dt>Leche</dt>
+            <dd>descremada</dd>
+            <dd>entera</dd>
+        <dt>Queso</dt>
+            <dd>Fontina</dd>
+            <dd>Muzzarella</dd>
+    </dl>
+    <br>
+    <p>Ciudades del mundo <strong>(Listas anidadas o combinadas)</strong></p>
+    <ul>
+        <li>Argentina</li>
+        <ol>
+            <li>Buenos Aires</li>
+            <li>Bariloche</li>
+        </ol>
+        <li>Uruguay</li>
+        <ol>
+            <li>Montevideo</li>
+            <li>Punta del Este</li>
+        </ol>
+    </ul>
+    <hr>
+    <h2>Tablas (ejemplo de estructura)</h2>
+    <table border="2px">
+        <!-- cellspacing -> espacio entre celdas de la tabla
+             cellpadding -> espacio entre los bordes y el contenido de las celdas
+             border -> numero de pixeles que tendra el borde de la tabla -->
+        <tr>
+            <!-- TH o Table Header -> sirve para crear una celda cuyo contenido posea un titulo o cabecera de la tabla. -->
+            <th>Celda 1, linea 1</th> 
+            <th>Celda 2, linea 1</th>
+        </tr>
+        <tr>
+            <td>Celda 1, linea 2</td>
+            <td>Celda 2, linea 2</td>
+        </tr>
+    </table>
+    <br><hr>
+    <h2>Etiqueta Iframe</h2>
+    <iframe src="./Ejercicio 1/index.html" width="290" height="250">Esto es un "IFRAME"</iframe>
+    <!-- iframe sirve para agregar un espacio donde mostrar contenido de otra pagina web -->
+    <br><br><hr>
+    <h2>Formularios</h2>
+    <p>Cajas de texto</p>
+    <input type="text" name="nombre">
+    <!-- type="text" -> texto visible -->
+    <!-- atributos que pueden tener:
+                                    - size: define el tamanio de la caja  de texto.
+                                    - maxlength: indica la maxima cantidad de caracteres que puede tener la caja de texto.
+                                    - value: sirve para darle un valor definido al campo en cuestion. [ocupa espacio de la caja] -->
+    <br>
+    <input type="password" name="clave">
+    <!-- type="password" -> texto no visible (asteriscos) -->
+    <br>
+    <p>Etiqueta de Area de Texto</p>
+    <textarea name="area de texto" id="" cols="40" rows="10">Agregue aqui su opinion</textarea>
+    <!-- hay que definir la cantidad de lineas del campo de texto en "rows" y la cantidad de columnas en "cols" -->
+    <br>
+    <p>Listas de Opciones</p>
+    <!-- Son listas desplegables que nos permiten elegir una (o varias) opciones, de una cantidad establecida  por nosotros. -->
+    <select name="esation" id="">
+        <option value="Pr">Primavera</option>
+        <option value="Ve" selected>Verano</option>
+        <option value="Ot">Otono</option>
+        <option value="In">Invierno</option>
+        <!-- value: define que valor sera enviado al programa, cuando el usuario elija cada opcion -->
+    </select>
+    <!-- esta estructura puede estar afectada por dos atributos:
+            - size: indica el numero de valores mostrados a la vez en la lista.
+            - multiple: permite seleccionar varios elementos de la lista. -->
+    <br>
+    <p>Botones de radio</p>
+    <input type="radio" name="estacion" value="1">Primavera <br>
+    <input type="radio" name="estacion" value="2">Verano <br>
+    <input type="radio" name="estacion" value="3">Otono <br>
+    <input type="radio" name="estacion" value="4">Invierno
+    <!-- se puede poner un elemento preseleccionado con el atributo "checked" despues del valor de "value" -->
+    <br><br>
+    <p>Cajas de validacion</p>
+    <input type="checkbox" name="jamon">Me gusta el jamon
+    <!-- el usuario lo puede activar o desactivar a gusto -->
+    <!-- el tipo de informacion que llegara a nosotros, por el usuario, sera "on" si esta tildado u "off" si no esta tildado -->
+    <br><br><hr>
+    <p>Boton de enviar formulario</p>
+    <input type="submit" value="enviar">
+    <br>
+    <p>Boton de reseteo de pagina</p>
+    <input type="reset" value="Borrar">
+    <!-- esto borrara todo los contenidos de la pagina y dejara lo preestablecido por el creador de esta misma -->
+
+    <!-- los datos ocultos sirven para que el creador de la pagina haga pruebas que se ven solo para el creador, el usuario que este viendo la pagina no los vera -->
+    <br>
+    <p>Botones comunes</p>
+    <input type="button" value="Broken Button">
+</body>
+</html>

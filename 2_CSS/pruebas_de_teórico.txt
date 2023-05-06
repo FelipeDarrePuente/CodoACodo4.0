@@ -1,0 +1,42 @@
+
+selector {
+    propiedad: "valor";
+}
+
+Selector --> es el elemento HTML que vamos a seleccionar de documento pala aplicarle un estilo concreto. [Etiquetas(){0,0,0,1}, clases(.){0,0,1,0} o IDs(#){0,1,0,0}]
+
+Propiedad --> es la propiedad CSS que queremos cambiar de ese elemento seleccionado, por ejemplo el color de fuente, el tama;o o su disposicion.
+
+Valor --> es el valor que se le asigna a la propiedad y que dictarra esa modificacion.
+
+
+{Para que un valor este por esncima de todos, hay que agregarle un !important entre el valor y el punto y coma (;).}
+
+
+VINCULACION --> existen 3 metodos para aplicar o vincular estilos CSS a nuestro HTML: interno, externo y en linea.
+
+Externo:
+
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title>
+    <LINK REL="STYLESHEET" HREF"./INDEX.CSS">            IMPORTANTE
+</head>
+
+
+Interno:
+
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title>
+    <STYLE>                                              IMPORTANTE
+        P {                                              IMPORTANTE
+            COLOR: CHARTREUSE;                           IMPORTANTE
+        }                                                IMPORTANTE
+    </STYLE>                                             IMPORTANTE
+</head>
+
+
+En Linea:
+
+<p STYLE="COLOR: BLUE;"> Lorem ipsum dolor, sit amet consectetur adipisicing elit.</p>                  IMPORTANTE EL STYLE DENTRO DE P

@@ -1,0 +1,81 @@
+footer{
+    position: absolute;
+    width: 1440px;
+    height: 343px;
+    left: 0px;
+    top: 3091px;
+    background-color: #30343F;
+}
+
+.logo{
+    position: absolute;
+    left: 82.43;
+    right: 7.64%;
+    top: 36.15%;
+    bottom: 29.97%;
+}
+
+#cajaFooter{
+    position: absolute;
+    left: 7.64%;
+    right: 83.06%;
+    top: 24.78%;
+    bottom: 39.65%;
+    width: 134px;
+    height: 122px;
+    top: 85px;
+    left: 110px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.shopFooter{
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 23px;
+    color: #FFFFFF;
+}
+
+.registrarse{
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 23px;
+    color: #FFFFFF;
+}
+
+.ingresar{
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 23px;
+    color: #FFFFFF;
+}
+
+.contactoFooter{
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 23px;
+    color: #FFFFFF;
+}
+
+.derechos{
+    position: absolute;
+    left: 36.39%;
+    right: 35.14%;
+    top: 86.59%;
+    bottom: 6.71%;
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 23px;
+    color: #FFFFFF;
+}

@@ -1,0 +1,87 @@
+Estimados alumnos y alumnas:
+
+Lo siguiente serán los datos útiles para toda la cursada.
+
+1) Bienvenidos al curso de Desarrollador Web Javascript - Node. 
+Profesor: Gabriel Alberto Feldman. alberto.feldman@bue.edu.ar
+
+
+2) Su comisión es la 23073.  
+
+
+3) La cursada es on line, sincrónica, los días martes y jueves de 10:00 a 11:30 hs.
+
+
+4) La url de Google Meet para cursar esos días es la siguiente: 
+
+meet.google.com/vgw-xtxh-xmj
+
+
+5) Utilizaremos como una de las herramientas de comunicación la aplicación Discord, se la pueden bajar de la siguiente url: https://discord.com/download. Es muy simple. Deben registrarse con su Nombre y Apellido, no apodos ni seudónimos. 
+
+
+6) Correo electrónico de Gonzalo Monicat, quién será el facilitador del curso, y nos dará soporte a diversos asuntos no técnicos, por ejemplo, si no pueden acceder al aula virtual, o no están en el grupo de discord, etc.
+
+gonzalo.monicat@bue.edu.ar
+
+Formulario de Consultas Administrativas: https://yraxx.github.io/Codo-formularios/
+
+
+7) Cree una dirección de email alternativa, exclusiva de ésta comisión, en donde subo ejercicios al drive, o si me quieren hacer una consulta de cualquier tipo. 
+
+comision23073cac@gmail.com
+
+
+8) Para acceder a la plataforma vitual, la url es:
+
+Dirección web: https://aulasvirtuales.bue.edu.ar/ 
+
+Usuario: DNI 
+
+clave: Prueba!123  
+
+Posteriormente podrán modificar por una nueva clave.
+
+
+9) Acceso a grupo de WhatsApp (opcional). Es ideal para comunicaciones inmediatas y siempre comunicaciones vinculadas al curso, sean técnicas o no. 
+
+https://chat.whatsapp.com/H7huH2Q5GQeA2CQTeF1nnK
+
+
+10) Carpeta del drive donde estarán las clases grabadas:
+
+Drive: 
+https://drive.google.com/drive/folders/1pMH7-iMn3L3WgdZdZ6aa5eDg6trnOOlE?usp=sharing
+
+Link Lista de Reproducción Youtube: 
+https://www.youtube.com/playlist?list=PLzTjQqtUY-8T8nZMvQmo34pTZIbTgtlZf
+
+
+11) Carpeta del Drive con ejercicios en clase, datos útiles, etc.
+
+Ejercicios en Clase: 
+https://drive.google.com/drive/folders/1xc6ZFaD1gO6W1I00kJfKRucMI5NJXQ56?usp=share_link
+
+Planilla Datos Utiles: 
+https://drive.google.com/drive/folders/1fhDCgog5IHNcGattT7iBtOfZQHA6KlMr?usp=share_link
+
+
+12) Carpeta del Drive con temas compartidos, resolución de ejercicios dados no obligatorios.
+
+https://drive.google.com/drive/folders/1JCWwdBUCc60fahnk4Q5-mxVX8xDzdbMu?usp=share_link
+
+
+13) Acceso a la planilla de asistencia. 
+
+https://docs.google.com/spreadsheets/d/18RJ77-mXXgE05qDDTdsunXOrGa0eUgXRwGNvNRuq2ZE/edit?usp=sharing
+
+
+14) Formulario de Asistencia 
+
+https://forms.gle/bT9w2HaiLQiKzxPW6
+
+
+Seguimos adelante!
+
+Saludos,
+Gabriel.

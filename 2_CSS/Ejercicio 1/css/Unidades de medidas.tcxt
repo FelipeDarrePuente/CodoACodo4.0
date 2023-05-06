@@ -1,0 +1,14 @@
+Unidades de Medidas
+
+Unidades de Medidas Absolutas
+- cm --> centimetros
+- mm --> milimetros
+- pt --> punto = equivale a  0.35 milimetros
+- pc --> picas = equivale a 12 puntos, osea 4.23 milimetros
+
+Unidades de Medidas Relativas
+- % --> porcentaje
+- px --> pixel
+- em --> es relativo al tamaño de la letra del contenedor mas cercano
+- rem --> Root Em (por default 16px) Ej.: 2rem = 32px
+- ex --> toma como parametro la letra X

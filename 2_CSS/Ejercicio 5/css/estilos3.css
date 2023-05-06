@@ -1,0 +1,18 @@
+#caja{
+    transition: 1s;
+    font-size: 1.6em;
+}
+
+#caja:hover{
+    color: black;
+    background-color: rgb(221, 220, 220);
+}
+
+#caja:active{
+    background-color: rgb(4, 4, 163);
+    color: white;
+}
+
+h1::first-letter{
+    font-size: 5rem;
+}

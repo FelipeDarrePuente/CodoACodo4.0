@@ -1,0 +1,14 @@
+Front End
+	HTML (contenido)
+	CSS (estética y maquetación)
+	BOOTSTRAP (framework)
+	JavaScript (cerebro, capacidad de realizar efectos visuales y preveer lógicas de operaciones)
+
+
+Back End (persistencia, base de datos)
+	NODE JS
+	EXPRESS (framework)
+	BASE DE DATOS SQL
+
+
+C -> Comision 23073 -> HTML -> Ejercicio1

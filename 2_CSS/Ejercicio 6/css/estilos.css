@@ -1,0 +1,55 @@
+#contenedor{
+    border: 1px solid black;
+    width: 500px;
+    height: 300px;
+    padding: 3px;
+
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: flex-start;
+    /* align-content: center; */
+    flex-wrap: wrap;
+
+}
+
+.elemento{
+    width: 50px;
+    height: 50px;
+    border: 1px solid black;
+    font-size: 2.5em;
+    text-align: center;
+    margin: 3px;
+    flex-grow: 1;
+    flex-shrink: 1;
+}
+
+#caja1{
+    background-color: tomato;
+    /* align-self: center; */
+    /* order: 10; */
+    /* flex-shrink: 1.7; */
+}
+
+#caja2{
+    background-color: rgb(102, 190, 219);
+    /* align-self: flex-end; */
+    /* order: 5; */
+    /* flex-grow: 2; */
+    /* flex-shrink: 3; */
+}
+
+#caja3{
+    background-color: lightgreen;
+    /* order: 50; */
+    /* flex-grow: 4; */
+    /* flex-shrink: 2.5; */
+}
+
+#caja4{
+    background-color: violet;
+    /* align-self: stretch; */
+    /* order: 40; */
+    /* flex-grow: 3; */
+    
+}

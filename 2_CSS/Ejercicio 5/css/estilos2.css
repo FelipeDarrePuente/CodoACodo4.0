@@ -1,0 +1,14 @@
+#caja{
+    transition: 1s;
+    background-image: url(../Imagenes/field.jpg);
+    background-size: cover;
+    filter: sepia(100%);
+}
+
+#caja:hover{
+    /* background-color: blueviolet;
+    transform: rotate(5deg) */
+    filter: sepia(0%) saturate(5);
+    transform: scale(1.2);
+    filter: drop-shadow(1px 1px 8px rgb(247, 228, 228));
+}

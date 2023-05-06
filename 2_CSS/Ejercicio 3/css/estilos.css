@@ -1,0 +1,40 @@
+body{
+    padding-bottom: 200em;
+}
+
+.contenedor{
+    width: 600px;
+    height: 600px;
+    border: 1px solid black;
+}
+
+.caja{
+    width: 150px;
+    height: 150px;
+    border: 1px solid black;
+}
+
+#elemento1{
+    position: relative;
+    background-color: red;
+    z-index: 12;
+}
+
+#elemento2{
+    background-color: blue;
+    position: sticky;
+    width: 150px;
+    height: 150px;
+    /* left, right, top, bottom */
+    left: 0px;
+    top: 0px;
+    z-index: 11;
+}
+
+#elemento3{
+    background-color: green;
+    position: relative;
+    left: 152px;
+    top: -152px;
+    z-index: 10;
+}

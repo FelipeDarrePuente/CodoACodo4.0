@@ -1,0 +1,30 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+#contenedor{
+    width: 100vw;
+    height: 100vh;
+    background-color: black;
+    color: white;
+}
+
+h1{
+    color: white;
+    text-align: center;
+    padding-top: 80px;
+    font-size: 3em;
+}
+
+#caja{
+    width: 330px;
+    height: auto;
+    background-color: red;
+    margin: 130px auto;
+}
+
+p{
+    padding: 5%;
+    /* color: white; */
+}
